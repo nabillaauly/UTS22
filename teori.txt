@@ -1,0 +1,6 @@
+Matrix adalah sekumpulan informasi yang setiap datanya mengacu pada dua buah indeks.
+Matrix sendiri juga disebut dengan tabel lajur yang memiliki indeks baris dan indeks kolom. karena adanya
+dua buah indeks tsb, matrix juga disebut larik dua dimensi. istilah dua dimensi karena data tsb ada pada
+pertemuan baris dan kolom. Dalam pemograman, matrix bisa dibuat dengan dua cara yaitu:
+    1. menentukan elemen dan isi yang ditetapkan
+    2. menentukan elemen baris dan kolom berdasarkan nilai perulangan.
